@@ -79,14 +79,12 @@ Linux 系统通常会自动识别 NTFS 分区，若需手动挂载，可执行�
 2.给予执行权限：
   通过以下命令给予脚本执行权限：
   
-    bash
     chmod +x setup_ntfs_mount.sh
     
 
 3.运行脚本：
   使用 sudo 权限运行脚本：
 
-    bash
     sudo ./setup_ntfs_mount.sh
     
     
