@@ -1,5 +1,6 @@
 # Windows-and-Linux-dual-system-disk-interoperability
 通过在Linux中挂载NTFS分区实现
+（本教程原由Ai生成，本人优化并实操，达到预期效果后发布）
 # 双系统共享分区配置
 
 在安装双系统之前或在现有系统下，按以下步骤设置文件共享分区：
